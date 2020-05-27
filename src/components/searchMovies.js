@@ -38,10 +38,14 @@ export default function SearchMovies() {
                 <button type="submit" class="search-submit button" placeholder="Search">Search</button>
             </form>
             <div className="card-list">
-                {movies.filter(movie => movie.poster_path).map(movie => (
+                {movies ? movies.filter(movie => movie.poster_path).map(movie => (
                     //Filter all movies and will only keep the one who have a image
                     <MovieCard movie={movie} key={movie.id} />
-                ))}
+                )) : 
+                    <div>
+                        <h2>You need to write at least a movie.</h2>
+                    </div>
+                }
             </div>
         </div>
         </>

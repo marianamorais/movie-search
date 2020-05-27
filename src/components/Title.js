@@ -1,6 +1,6 @@
 import React from 'react';
 
-function App() {
+function Title() {
   return (
     <div className="container">
       <h1 className="title">Movie Search</h1>
@@ -8,4 +8,4 @@ function App() {
   );
 }
 
-export default App;
+export default Title;
