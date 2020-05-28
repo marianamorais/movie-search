@@ -5,7 +5,7 @@ A website where you can search for movies.
 
 <div align="center">
   <img width="600" src="https://i.imgur.com/DQrlyxe.png"><br>
-<div>
+</div>
   
 ## 🏁 Starting
 
