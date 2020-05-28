@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/72c6d244-e1e7-48bf-8137-a3da60035694/deploy-status)](https://app.netlify.com/sites/moviessearch/deploys)
+
 ## 💡 About 
 
 A website where you can search for movies.
