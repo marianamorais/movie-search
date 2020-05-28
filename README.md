@@ -3,7 +3,7 @@
 A website where you can search for movies.
 - The API is from [The Movie DB](https://www.themoviedb.org/)
 
-<img width="600" align="center" src="https://i.imgur.com/DQrlyxe.png"><br>
+<img width="600" src="https://i.imgur.com/DQrlyxe.png"><br>
 
 ## 🏁 Starting
 
