@@ -3,8 +3,10 @@
 A website where you can search for movies.
 - The API is from [The Movie DB](https://www.themoviedb.org/)
 
-<img width="600" src="https://i.imgur.com/DQrlyxe.png"><br>
-
+<div align="center">
+  <img width="600" src="https://i.imgur.com/DQrlyxe.png"><br>
+<div>
+  
 ## 🏁 Starting
 
 **1 - Install [Node.js](https://nodejs.org/en/)**.
